@@ -9,7 +9,7 @@ Tugas pertama Cheva menampilkan teks dengan column
 
 ## Kontak
 - **Email**: radjamahesawaluya@student.telkomuniversity.ac.id
-- **Whastapp**: 081617204318
+- **Whastapp**: 085176780306
 
 ## Preview
 ![WhatsApp Image 2024-12-23 at 9 58 48 PM](https://github.com/user-attachments/assets/4ecf4334-3fc5-4a8f-a161-037eec34656e)
